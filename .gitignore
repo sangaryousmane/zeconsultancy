@@ -1,0 +1,8 @@
+scripts/
+.env
+# Ignore all .log files
+*.log
+
+node_modules/
+check-brokerage.js
+cookies.txt
