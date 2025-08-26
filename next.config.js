@@ -1,9 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+
+
+  basePath: "/zeconsultancy",
+  output: "export",
+  reactStrictMode: true,
+
   // Enable experimental features for better performance
   experimental: {
     optimizePackageImports: ['framer-motion', 'lucide-react', '@radix-ui/react-select'],
   },
+  
   
   // Optimize images
   images: {
