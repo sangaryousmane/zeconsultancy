@@ -21,11 +21,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/brokerage/page.js"
     ],
-    "/documentation/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/documentation/page.js"
-    ],
     "/software-development/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
