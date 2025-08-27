@@ -1,6 +1,6 @@
 {
+  "/contact/page": "app/contact/page.js",
   "/equipment/page": "app/equipment/page.js",
-  "/brokerage/page": "app/brokerage/page.js",
   "/software-development/page": "app/software-development/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/brokerage/page": "app/brokerage/page.js"
 }
