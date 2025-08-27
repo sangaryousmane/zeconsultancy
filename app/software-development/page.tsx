@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { ArrowRight, Sparkles, Shield, Zap, Globe, CheckCircle } from 'lucide-react'
+import { ArrowRight, Sparkles, Shield, Zap, Globe } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Features } from '@/components/sections/Features'
 
